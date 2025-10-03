@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e64a"
+  },
+  "title": "Things Fall Apart",
+  "author": "Chinua Achebe",
+  "genre": "Classic",
+  "published_year": 1958,
+  "price": 14.5,
+  "in_stock": true,
+  "pages": 209,
+  "publisher": "Heinemann"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e64b"
+  },
+  "title": "Petals of Blood",
+  "author": "Ngugi wa Thiong'o",
+  "genre": "Political Fiction",
+  "published_year": 1977,
+  "price": 16,
+  "in_stock": true,
+  "pages": 432,
+  "publisher": "Heinemann"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e64c"
+  },
+  "title": "Purple Hibiscus",
+  "author": "Chimamanda Ngozi Adichie",
+  "genre": "Fiction",
+  "published_year": 2003,
+  "price": 13.99,
+  "in_stock": true,
+  "pages": 307,
+  "publisher": "Algonquin Books"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e64d"
+  },
+  "title": "So Long a Letter",
+  "author": "Mariama Bâ",
+  "genre": "Epistolary",
+  "published_year": 1980,
+  "price": 12.5,
+  "in_stock": false,
+  "pages": 90,
+  "publisher": "Heinemann"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e64e"
+  },
+  "title": "The Beautyful Ones Are Not Yet Born",
+  "author": "Ayi Kwei Armah",
+  "genre": "Novel",
+  "published_year": 1968,
+  "price": 11.75,
+  "in_stock": true,
+  "pages": 215,
+  "publisher": "Houghton Mifflin"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e64f"
+  },
+  "title": "Half of a Yellow Sun",
+  "author": "Chimamanda Ngozi Adichie",
+  "genre": "Historical Fiction",
+  "published_year": 2006,
+  "price": 18.2,
+  "in_stock": true,
+  "pages": 448,
+  "publisher": "Knopf"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e650"
+  },
+  "title": "A Grain of Wheat",
+  "author": "Ngugi wa Thiong'o",
+  "genre": "Historical Fiction",
+  "published_year": 1967,
+  "price": 14,
+  "in_stock": true,
+  "pages": 246,
+  "publisher": "Heinemann"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e651"
+  },
+  "title": "Season of Migration to the North",
+  "author": "Tayeb Salih",
+  "genre": "Novel",
+  "published_year": 1966,
+  "price": 15,
+  "in_stock": false,
+  "pages": 169,
+  "publisher": "Heinemann"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e652"
+  },
+  "title": "Weep Not, Child",
+  "author": "Ngugi wa Thiong'o",
+  "genre": "Novel",
+  "published_year": 1964,
+  "price": 10.99,
+  "in_stock": true,
+  "pages": 136,
+  "publisher": "Heinemann"
+},
+{
+  "_id": {
+    "$oid": "68df405c0826c20df5d4e653"
+  },
+  "title": "Americanah",
+  "author": "Chimamanda Ngozi Adichie",
+  "genre": "Romance",
+  "published_year": 2013,
+  "price": 17.5,
+  "in_stock": true,
+  "pages": 588,
+  "publisher": "Knopf"
+}]
